@@ -1,0 +1,26 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/AspNetCore-Effective-Logging/.vs/AspNetCore-Effective-Logging
+/AspNetCore-Effective-Logging/BookClub-API/bin/Debug/netcoreapp2.2
+/AspNetCore-Effective-Logging/BookClub-API/obj
+/AspNetCore-Effective-Logging/BookClub-Data/bin/Debug/netstandard2.0
+/AspNetCore-Effective-Logging/BookClub-Data/obj
+/AspNetCore-Effective-Logging/BookClub-UI/bin/Debug/netcoreapp2.2
+/AspNetCore-Effective-Logging/BookClub-UI/obj
+/AspNetCore-Effective-Logging/BookClub.Entities/bin/Debug/netstandard2.0
+/AspNetCore-Effective-Logging/BookClub.Entities/obj
+/AspNetCore-Effective-Logging/BookClub.API/bin/Debug/netcoreapp2.2
+/AspNetCore-Effective-Logging/BookClub.API/obj
+/AspNetCore-Effective-Logging/BookClub.Data/bin/Debug/netstandard2.0
+/AspNetCore-Effective-Logging/BookClub.Data/obj
+/AspNetCore-Effective-Logging/BookClub.UI/bin/Debug/netcoreapp2.2
+/AspNetCore-Effective-Logging/BookClub.UI/obj
+/AspNetCore-Effective-Logging/.vs/config
+/.vs
+/AspNetCore-Effective-Logging/BookClub.Data/BookClub.Data.csproj.user
+/AspNetCore-Effective-Logging/BookClub.Logic/bin/Debug/netstandard2.0
+/AspNetCore-Effective-Logging/BookClub.Logic/obj
+/AspNetCore-Effective-Logging/BookClub.Infrastructure/bin/Debug/netstandard2.0
+/AspNetCore-Effective-Logging/BookClub.Infrastructure/obj
