@@ -6,6 +6,4 @@ SELECT b.Id
       ,b.Classification
       ,b.Genre
       ,b.Description 
-	  ,b.Isbn
-	  ,b.Submitter
 FROM dbo.Book b
